@@ -46,6 +46,12 @@ venv.bak/
 .ipynb_checkpoints
 *.ipynb
 
+# Image files (generated visualizations)
+*.png
+*.jpg
+*.jpeg
+*.gif
+
 # Environment
 .env
 .env.local
