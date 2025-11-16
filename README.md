@@ -49,7 +49,7 @@ project-root/
 └── requirements.txt            # 의존성 패키지
 ```
 
-## � 시작하기
+## 시작하기
 
 ### 1. 환경 설정
 
@@ -100,7 +100,7 @@ python src/visualization/svm_decision_boundary.py
 python src/visualization/advanced_visualization.py
 ```
 
-## � 주요 분석 내용
+## 주요 분석 내용
 
 ### 데이터 통계
 - **훈련 샘플**: 약 53,000개 (이상치 제거 후)
@@ -118,7 +118,7 @@ python src/visualization/advanced_visualization.py
 - 이상치 탐지 및 영향도 평가
 - 클래스 불균형 처리 방안 제시
 
-## 📚 문서
+## 문서
 
 자세한 정보는 `docs/` 폴더의 다음 문서들을 참고하세요:
 
@@ -128,7 +128,7 @@ python src/visualization/advanced_visualization.py
 - **MODEL_EVALUATION_REPORT.md**: 모델 평가 상세 리포트
 - **preprocessing_report.md**: 전처리 과정 상세 설명
 
-## 🔧 기술 스택
+## 기술 스택
 
 - **Python 3.8+**
 - **Pandas**: 데이터 조작 및 분석
@@ -141,7 +141,3 @@ python src/visualization/advanced_visualization.py
 이 프로젝트는 MIT 라이선스 하에 배포됩니다.
 
 ---
-
-**마지막 업데이트**: 2025년 11월 12일
-
-**🎓 프로젝트 완료! 모델 학습을 시작할 수 있습니다.** ✨
